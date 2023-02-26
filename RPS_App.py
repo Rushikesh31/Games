@@ -7,7 +7,6 @@ winner = 0
 st.set_page_config('Rock Paper Scissor', layout='centered',
                    initial_sidebar_state='collapsed')
 
-# st.header('<h1>Rock Paper Scissor</h1>')
 st.markdown('<center><h1>Rock Paper Scissor</h1></center><hr>',
             unsafe_allow_html=True)
 
